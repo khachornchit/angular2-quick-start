@@ -1,0 +1,9 @@
+D:\OneDrive\Projects\Angular\angular2.plutosols\bin\angular2.plutosols.dll.config
+D:\OneDrive\Projects\Angular\angular2.plutosols\bin\angular2.plutosols.dll
+D:\OneDrive\Projects\Angular\angular2.plutosols\bin\angular2.plutosols.pdb
+D:\OneDrive\Projects\Angular\angular2.plutosols\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive\Projects\Angular\angular2.plutosols\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive\Projects\Angular\angular2.plutosols\obj\Release\angular2.plutosols.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Angular\angular2.plutosols\obj\Release\angular2.plutosols.dll
+D:\OneDrive\Projects\Angular\angular2.plutosols\obj\Release\angular2.plutosols.pdb
+D:\OneDrive\Projects\Angular\angular2.plutosols\obj\Release\angular2.plutosols.csprojResolveAssemblyReference.cache
